@@ -1,0 +1,15 @@
+name: CDTsuperGC
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - blast
+  - biopython
+  - pysam
+  - scipy
+  - bwa 
+  - ipython
+  - samtools 
+  - networkx
+  - jupyter
